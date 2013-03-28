@@ -1,0 +1,14 @@
+C:\Users\yj13100>cd C:\Users\yj13100\Downloads
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+"
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+"
+
+C:\Users\yj13100\Downloads>
+
+msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi /v<Output.txt>
+
+
+

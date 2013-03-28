@@ -1,0 +1,61 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+h:\>c:
+
+C:\>cd C:\Users\yj13100\Downloads
+
+C:\Users\yj13100\Downloads>msiexec /?
+
+C:\Users\yj13100\Downloads>msiexec /?
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+ /v<Output.txt>
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+ /v
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+ /v
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+ /v
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+ /v
+
+C:\Users\yj13100\Downloads>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi
+ /v
+
+C:\Users\yj13100\Downloads>cd c:\github
+
+c:\Github>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi" /v
+
+c:\Github>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi"
+
+c:\Github>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi" /v
+
+c:\Github>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi" /v<output.txt>
+The syntax of the command is incorrect.
+
+c:\Github>msiexec /?
+
+c:\Github>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi" /v output.txt
+
+c:\Github>msiexec /?
+
+c:\Github>msiexec /a "Microsoft.TeamFoundation.Git.Provider.msi" /lv output.txt
+
+c:\Github>
+
+
+
+
+
+
+
+
+
+
+
+
